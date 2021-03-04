@@ -1,6 +1,8 @@
-### Hello Friends 👋
+### Hello Friends 👋 ![Profile views](https://gpvc.arturio.dev/darkterminal)
 
 My name Is Imam Ali Mustofa and _The best moment in my life is... when i encountered an error and i can fix it!_. I am currently work at Betta Dev Indonesia.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darkterminal&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
