@@ -6,11 +6,11 @@ My name Is Imam Ali Mustofa and _The best moment in my life is... when i encount
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fail Before Starting](https://www.bettadevindonesia.com/dev-daily/fail-before-starting/)
 - [Fail Before Starting](https://dev.to/darkterminal/fail-before-starting-3761)
 - [Psychology and Information and Across the World](https://dev.to/darkterminal/psychology-and-information-and-across-the-world-25b5)
 - [Psikologi dan Informasi serta Eksistensi Lintas Dunia](https://www.bettadevindonesia.com/dev-daily/psikologi-dan-informasi-serta-eksistensi-lintas-dunia/)
 - [Saatnya Bisnis Anda Go Online Dan Tingkatkan Penghasilan](https://www.bettadevindonesia.com/tech/saatnya-bisnis-anda-go-online-dan-tingkatkan-penghasilan/)
-- [Bagaimana Saya Mulai Berpikir Bahasa Pemrograman Adalah Sastra?](https://dev.to/darkterminal/bagaimana-saya-mulai-berpikir-bahasa-pemrograman-adalah-sastra-2c08)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
