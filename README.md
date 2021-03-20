@@ -6,11 +6,11 @@ My name Is Imam Ali Mustofa and _The best moment in my life is... when i encount
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sending Raw Base64 to PrintNode using PHP](https://dev.to/darkterminal/sending-raw-base64-to-printnode-using-php-54hm)
 - [Sublime Text 3 Setup](https://dev.to/darkterminal/sublime-text-3-setup-npi)
 - [Fail Before Starting](https://www.bettadevindonesia.com/dev-daily/fail-before-starting/)
 - [Fail Before Starting](https://dev.to/darkterminal/fail-before-starting-3761)
 - [Psychology and Information and Across the World](https://dev.to/darkterminal/psychology-and-information-and-across-the-world-25b5)
-- [Psikologi dan Informasi serta Eksistensi Lintas Dunia](https://www.bettadevindonesia.com/dev-daily/psikologi-dan-informasi-serta-eksistensi-lintas-dunia/)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
