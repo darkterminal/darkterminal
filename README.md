@@ -9,7 +9,7 @@ My name Is Imam Ali Mustofa and _The best moment in my life is... when i encount
 - [How I Build a System? #1](https://dev.to/darkterminal/how-i-build-a-system-1-jaa)
 - [Never Ask Me, Why?](https://dev.to/darkterminal/never-ask-me-why-2j71)
 - [Chill With Searching and Loading](https://dev.to/darkterminal/chill-with-searching-and-loading-195k)
-- [Don't Reject Something](https://dev.to/darkterminal/don-t-reject-something-24ll)
+- [Don&#39;t Reject Something](https://dev.to/darkterminal/don-t-reject-something-24ll)
 - [PHP Pocket Book](https://dev.to/darkterminal/php-pocket-book-4p3i)
 <!-- BLOG-POST-LIST:END -->
 
