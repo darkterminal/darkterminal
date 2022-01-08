@@ -15,5 +15,6 @@ My name Is Imam Ali Mustofa and _The best moment in my life is... when i encount
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Imam Ali Mustofa for Is there a way to POST the value and the content of html form option?](https://stackoverflow.com/questions/70628128/is-there-a-way-to-post-the-value-and-the-content-of-html-form-option/70632331#70632331)
 - [Answer by Imam Ali Mustofa for How to run a command &lpar;like a git pull&rpar; from the web browser from a webserver runnint on the Raspberry Pi?](https://stackoverflow.com/questions/66496352/how-to-run-a-command-like-a-git-pull-from-the-web-browser-from-a-webserver-run/66496470#66496470)
 <!-- STACKOVERFLOW:END -->
