@@ -6,11 +6,11 @@ My name Is Imam Ali Mustofa and _The best moment in my life is... when i encount
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fail Before Starting](https://www.bettadevindonesia.com/dev-daily/fail-before-starting/)
-- [Psikologi dan Informasi serta Eksistensi Lintas Dunia](https://www.bettadevindonesia.com/dev-daily/psikologi-dan-informasi-serta-eksistensi-lintas-dunia/)
-- [Saatnya Bisnis Anda Go Online Dan Tingkatkan Penghasilan](https://www.bettadevindonesia.com/tech/saatnya-bisnis-anda-go-online-dan-tingkatkan-penghasilan/)
-- [Membuat EAN 13 Barcode Dengan PHP](https://www.bettadevindonesia.com/dev-daily/membuat-ean-13-barcode-dengan-php/)
-- [HTML Browser](https://www.bettadevindonesia.com/tutorials/html-browser/)
+- [Using Gitlab as JSONDB](https://dev.to/darkterminal/using-gitlab-as-jsondb-hi2)
+- [How I Build a System? #1](https://dev.to/darkterminal/how-i-build-a-system-1-jaa)
+- [Never Ask Me, Why?](https://dev.to/darkterminal/never-ask-me-why-2j71)
+- [Chill With Searching and Loading](https://dev.to/darkterminal/chill-with-searching-and-loading-195k)
+- [Don&#39;t Reject Something](https://dev.to/darkterminal/don-t-reject-something-24ll)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
