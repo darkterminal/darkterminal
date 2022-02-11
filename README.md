@@ -6,11 +6,11 @@ My name Is Imam Ali Mustofa and _The best moment in my life is... when i encount
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Piece By Piece #2](https://dev.to/darkterminal/piece-by-piece-2-3e91)
 - [Periodic Database Backup to Gitlab Private Repository Using Flysystem and Cronjob](https://dev.to/darkterminal/periodic-database-backup-to-gitlab-private-repository-using-flysystem-and-cronjob-10ih)
 - [Using Gitlab as JSONDB](https://dev.to/darkterminal/using-gitlab-as-jsondb-hi2)
 - [How I Build a System? #1](https://dev.to/darkterminal/how-i-build-a-system-1-jaa)
 - [Never Ask Me, Why?](https://dev.to/darkterminal/never-ask-me-why-2j71)
-- [Chill With Searching and Loading](https://dev.to/darkterminal/chill-with-searching-and-loading-195k)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
