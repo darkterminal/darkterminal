@@ -6,11 +6,11 @@ My name Is Imam Ali Mustofa and _The best moment in my life is... when i encount
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [splStorage.js &lpar;Stupid Library&rpar; !!!](https://dev.to/darkterminal/splstoragejs-stupid-library--boh)
-- [Build Warehouse and Store Management System - Pt. 3](https://dev.to/darkterminal/build-warehouse-and-store-management-system-pt-3-3jdo)
-- [Build Warehouse and Store Management System - Pt. 2](https://dev.to/darkterminal/build-warehouse-and-store-management-system-pt-2-1mh0)
-- [Build Warehouse and Store Management System - Pt. 1](https://dev.to/darkterminal/build-warehouse-and-store-management-system-pt-1-251h)
-- [Watch and Testing Cronjob using PHP](https://dev.to/darkterminal/watch-and-testing-cronjob-using-php-4hkh)
+- [Fail Before Starting](https://www.bettadevindonesia.com/dev-daily/fail-before-starting/)
+- [Psikologi dan Informasi serta Eksistensi Lintas Dunia](https://www.bettadevindonesia.com/dev-daily/psikologi-dan-informasi-serta-eksistensi-lintas-dunia/)
+- [Saatnya Bisnis Anda Go Online Dan Tingkatkan Penghasilan](https://www.bettadevindonesia.com/tech/saatnya-bisnis-anda-go-online-dan-tingkatkan-penghasilan/)
+- [Membuat EAN 13 Barcode Dengan PHP](https://www.bettadevindonesia.com/dev-daily/membuat-ean-13-barcode-dengan-php/)
+- [HTML Browser](https://www.bettadevindonesia.com/tutorials/html-browser/)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
