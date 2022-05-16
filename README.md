@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imam Ali Mustofa</h1>
 <h3 align="center">Deal with My Idealism, Dream Big! Not for Sale, Just for Satisfaction</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darkterminal&label=Profile%20views&color=0e75b6&style=flat" alt="darkterminal" /><br/>
   <a href="https://twitter.com/panggilmeiam" target="blank"><img src="https://img.shields.io/twitter/follow/panggilmeiam?logo=twitter&style=for-the-badge" alt="panggilmeiam" /></a>
 </p>
 
