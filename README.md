@@ -20,11 +20,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SleekwareDB - Process](https://dev.to/darkterminal/sleekwaredb-process-2d8i)
 - [SleekwareDB - The Idea](https://dev.to/darkterminal/sleekwaredb-the-idea-134h)
 - [SleekwareDB - Open Source](https://dev.to/darkterminal/sleekwaredb-open-source-5b6k)
 - [Build Warehouse and Store Management System - Pt. 4 - Final](https://dev.to/darkterminal/build-warehouse-and-store-management-system-pt-4-final-4c29)
 - [splStorage.js &lpar;Stupid Library&rpar; !!!](https://dev.to/darkterminal/splstoragejs-stupid-library--boh)
-- [Build Warehouse and Store Management System - Pt. 3](https://dev.to/darkterminal/build-warehouse-and-store-management-system-pt-3-3jdo)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
