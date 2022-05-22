@@ -16,9 +16,7 @@
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/darkterminal"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="darkterminal" /></a></p>
 
----
-
-# Blog posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [SleekwareDB - Process](https://dev.to/darkterminal/sleekwaredb-process-2d8i)
 - [SleekwareDB - The Idea](https://dev.to/darkterminal/sleekwaredb-the-idea-134h)
@@ -27,7 +25,7 @@
 - [splStorage.js &lpar;Stupid Library&rpar; !!!](https://dev.to/darkterminal/splstoragejs-stupid-library--boh)
 <!-- BLOG-POST-LIST:END -->
 
-# StackOverflow Activity
+## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Answer by Imam Ali Mustofa for How can i create this type of html layout](https://stackoverflow.com/questions/72148577/how-can-i-create-this-type-of-html-layout/72148610#72148610)
 - [Answer by Imam Ali Mustofa for Dynamic countdown timer in laravel](https://stackoverflow.com/questions/71536287/dynamic-countdown-timer-in-laravel/71536548#71536548)
@@ -36,20 +34,13 @@
 - [Answer by Imam Ali Mustofa for Array_unique can&#39;t be used](https://stackoverflow.com/questions/70643168/array-unique-cant-be-used/70643217#70643217)
 <!-- STACKOVERFLOW:END -->
 
----
-
-- 👨‍💻 All of my projects are available at [https://read.cv/darkterminal](https://read.cv/darkterminal)
-
-- 📝 I regularly write articles on [https://dev.to/darkterminal](https://dev.to/darkterminal)
-
-- 📫 How to reach me **ddarkterminal@pm.me**
-
-- 📄 Know about my experiences [https://read.cv/darkterminal](https://read.cv/darkterminal)
-
-- ⚡ Fun fact **I Think I am Egoist!**
+## Statistics
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkterminal&show_icons=true&locale=en&layout=compact" alt="darkterminal" /><br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkterminal&show_icons=true&locale=en" alt="darkterminal" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkterminal&theme=light" alt="Github Streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkterminal&count_private=true&show_icons=true&theme=synthwave&hide_border=true" alt="darkterminal" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=darkterminal&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak" />
 </p>
+
+| 💻 Awesome Me Stage | 📝 Blog Posts / Stuff | 📫 How to reach me? (email only) | ⚡ What The Fun Fact | 🔔 Discord Invitation |
+|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:| :--------------------------------------:|:--------------------------------------:|
+| [READ CV](https://read.cv/darkterminal) | [DEV.to](https://dev.to/darkterminal) | [Mail](mailto:ddarkterminal@pm.me) | **I Think I am Egoist!** | [Join Server](https://discord.gg/zmHJBvrcYh) |
