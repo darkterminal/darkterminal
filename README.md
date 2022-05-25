@@ -14,7 +14,12 @@
 </p>
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/darkterminal"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="darkterminal" /></a></p>
+<p align="center">
+  <a href="https://www.paypal.me/lazarusalhambra" target="_blank"><img src="https://img.shields.io/static/v1?label=PayPal&message=Donate&color=grey&labelColor=blue&logo=paypal" alt="PayPal"></a>
+  <a href="https://www.buymeacoffee.com/darkterminal" target="_blank"><img src="https://img.shields.io/static/v1?label=BuyMeCoffee&message=Donate&color=blue&labelColor=chocolate" alt="darkterminal" /></a>
+  <a href="https://saweria.co/darkterminal" target="_blank"><img src="https://img.shields.io/static/v1?label=Saweria&message=Donate&color=darkgreen&labelColor=green" alt="Saweria"></a>
+  <a href="https://ko-fi.com/imamalimustofa" target="_blank"><img src="https://img.shields.io/static/v1?label=Ko-Fi&message=Donate&color=blue&labelColor=magenta&logo=kofi" alt="Ko-Fi"></a>
+</p>
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
