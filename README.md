@@ -24,11 +24,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CNAME Between cPanel and CyberPanel throught CloudFlare](https://dev.to/darkterminal/cname-between-cpanel-and-cyberpanel-throught-cloudflare-22g0)
 - [SleekwareDB - Process](https://dev.to/darkterminal/sleekwaredb-process-2d8i)
 - [SleekwareDB - The Idea](https://dev.to/darkterminal/sleekwaredb-the-idea-134h)
 - [SleekwareDB - Open Source](https://dev.to/darkterminal/sleekwaredb-open-source-5b6k)
 - [Build Warehouse and Store Management System - Pt. 4 - Final](https://dev.to/darkterminal/build-warehouse-and-store-management-system-pt-4-final-4c29)
-- [splStorage.js &lpar;Stupid Library&rpar; !!!](https://dev.to/darkterminal/splstoragejs-stupid-library--boh)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
