@@ -24,11 +24,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rebuilding Management](https://dev.to/darkterminal/rebuilding-management-408l)
-- [CNAME Between cPanel and CyberPanel throught CloudFlare](https://dev.to/darkterminal/cname-between-cpanel-and-cyberpanel-throught-cloudflare-22g0)
-- [SleekwareDB - Process](https://dev.to/darkterminal/sleekwaredb-process-2d8i)
-- [SleekwareDB - The Idea](https://dev.to/darkterminal/sleekwaredb-the-idea-134h)
-- [SleekwareDB - Open Source](https://dev.to/darkterminal/sleekwaredb-open-source-5b6k)
+- [Fail Before Starting](https://www.bettadevindonesia.com/dev-daily/fail-before-starting/)
+- [Psikologi dan Informasi serta Eksistensi Lintas Dunia](https://www.bettadevindonesia.com/dev-daily/psikologi-dan-informasi-serta-eksistensi-lintas-dunia/)
+- [Saatnya Bisnis Anda Go Online Dan Tingkatkan Penghasilan](https://www.bettadevindonesia.com/tech/saatnya-bisnis-anda-go-online-dan-tingkatkan-penghasilan/)
+- [Membuat EAN 13 Barcode Dengan PHP](https://www.bettadevindonesia.com/dev-daily/membuat-ean-13-barcode-dengan-php/)
+- [HTML Browser](https://www.bettadevindonesia.com/tutorials/html-browser/)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
