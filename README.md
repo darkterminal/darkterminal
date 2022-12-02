@@ -24,11 +24,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Street Programmer: Metaphor](https://dev.to/darkterminal/street-programmer-metaphor-1hb3)
 - [Street Programmer: My Unconventional Method](https://dev.to/darkterminal/street-programmer-my-unconventional-method-2m94)
 - [Rebuilding Management](https://dev.to/darkterminal/rebuilding-management-408l)
 - [CNAME Between cPanel and CyberPanel throught CloudFlare](https://dev.to/darkterminal/cname-between-cpanel-and-cyberpanel-throught-cloudflare-22g0)
 - [SleekwareDB - Process](https://dev.to/darkterminal/sleekwaredb-process-2d8i)
-- [SleekwareDB - The Idea](https://dev.to/darkterminal/sleekwaredb-the-idea-134h)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
