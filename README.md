@@ -33,11 +33,11 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by Imam Ali Mustofa for How do I convert a list of tokens into React elements?](https://stackoverflow.com/questions/74682883/how-do-i-convert-a-list-of-tokens-into-react-elements/74683365#74683365)
-- [Answer by Imam Ali Mustofa for How to get access token using refresh token in google oauth2?](https://stackoverflow.com/questions/74683222/how-to-get-access-token-using-refresh-token-in-google-oauth2/74683323#74683323)
-- [Answer by Imam Ali Mustofa for Query-string encoding of a JavaScript object](https://stackoverflow.com/questions/1714786/query-string-encoding-of-a-javascript-object/74683289#74683289)
-- [Answer by Imam Ali Mustofa for Firebase Realtime Database, how do I know when dataset has finished loading](https://stackoverflow.com/questions/74683116/firebase-realtime-database-how-do-i-know-when-dataset-has-finished-loading/74683261#74683261)
-- [Answer by Imam Ali Mustofa for jquery fullcalendar drop non event on event](https://stackoverflow.com/questions/34955365/jquery-fullcalendar-drop-non-event-on-event/74683246#74683246)
+- [Answer by Imam Ali Mustofa for How to Maintain dark mode in switching pages](https://stackoverflow.com/questions/74682799/how-to-maintain-dark-mode-in-switching-pages/74682856#74682856)
+- [Answer by Imam Ali Mustofa for SQL Query Search doesnt use joined table](https://stackoverflow.com/questions/70795418/sql-query-search-doesnt-use-joined-table/70796452#70796452)
+- [Answer by Imam Ali Mustofa for Array_unique can&#39;t be used](https://stackoverflow.com/questions/70643168/array-unique-cant-be-used/70643399#70643399)
+- [Answer by Imam Ali Mustofa for Array_unique can&#39;t be used](https://stackoverflow.com/questions/70643168/array-unique-cant-be-used/70643217#70643217)
+- [Answer by Imam Ali Mustofa for put array data to input field and submit that data in model as separate records](https://stackoverflow.com/questions/70617538/put-array-data-to-input-field-and-submit-that-data-in-model-as-separate-records/70632463#70632463)
 <!-- STACKOVERFLOW:END -->
 
 ## Statistics
