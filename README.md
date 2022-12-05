@@ -33,11 +33,11 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by Imam Ali Mustofa for How to Maintain dark mode in switching pages](https://stackoverflow.com/questions/74682799/how-to-maintain-dark-mode-in-switching-pages/74682856#74682856)
 - [Answer by Imam Ali Mustofa for SQL Query Search doesnt use joined table](https://stackoverflow.com/questions/70795418/sql-query-search-doesnt-use-joined-table/70796452#70796452)
 - [Answer by Imam Ali Mustofa for Array_unique can&#39;t be used](https://stackoverflow.com/questions/70643168/array-unique-cant-be-used/70643399#70643399)
 - [Answer by Imam Ali Mustofa for Array_unique can&#39;t be used](https://stackoverflow.com/questions/70643168/array-unique-cant-be-used/70643217#70643217)
 - [Answer by Imam Ali Mustofa for put array data to input field and submit that data in model as separate records](https://stackoverflow.com/questions/70617538/put-array-data-to-input-field-and-submit-that-data-in-model-as-separate-records/70632463#70632463)
+- [Answer by Imam Ali Mustofa for Is there a way to POST the value and the content of html form option?](https://stackoverflow.com/questions/70628128/is-there-a-way-to-post-the-value-and-the-content-of-html-form-option/70632331#70632331)
 <!-- STACKOVERFLOW:END -->
 
 ## Statistics
