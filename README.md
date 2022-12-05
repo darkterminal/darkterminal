@@ -33,11 +33,11 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Imam Ali Mustofa for How to Maintain dark mode in switching pages](https://stackoverflow.com/questions/74682799/how-to-maintain-dark-mode-in-switching-pages/74682856#74682856)
 - [Answer by Imam Ali Mustofa for How can i create this type of html layout](https://stackoverflow.com/questions/72148577/how-can-i-create-this-type-of-html-layout/72148610#72148610)
 - [Answer by Imam Ali Mustofa for Dynamic countdown timer in laravel](https://stackoverflow.com/questions/71536287/dynamic-countdown-timer-in-laravel/71536548#71536548)
 - [Answer by Imam Ali Mustofa for SQL Query Search doesnt use joined table](https://stackoverflow.com/questions/70795418/sql-query-search-doesnt-use-joined-table/70796452#70796452)
 - [Answer by Imam Ali Mustofa for Array_unique can&#39;t be used](https://stackoverflow.com/questions/70643168/array-unique-cant-be-used/70643399#70643399)
-- [Answer by Imam Ali Mustofa for Array_unique can&#39;t be used](https://stackoverflow.com/questions/70643168/array-unique-cant-be-used/70643217#70643217)
 <!-- STACKOVERFLOW:END -->
 
 ## Statistics
