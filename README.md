@@ -24,11 +24,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Street Programmer: Translate Requests Between Stores with Different Selling Units](https://dev.to/darkterminal/street-programmer-translate-requests-between-stores-with-different-selling-units-5cl0)
 - [Street Programmer: React Table Trigger Changed Without SWR](https://dev.to/darkterminal/street-programmer-react-table-trigger-changed-without-swr-3902)
 - [Street Programmer: Metaphor](https://dev.to/darkterminal/street-programmer-metaphor-1hb3)
 - [Street Programmer: My Unconventional Method](https://dev.to/darkterminal/street-programmer-my-unconventional-method-2m94)
 - [Rebuilding Management](https://dev.to/darkterminal/rebuilding-management-408l)
-- [CNAME Between cPanel and CyberPanel throught CloudFlare](https://dev.to/darkterminal/cname-between-cpanel-and-cyberpanel-throught-cloudflare-22g0)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
