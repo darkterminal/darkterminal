@@ -16,10 +16,6 @@
 <h3 align="center">Support:</h3>
 <p align="center">
   <a href="https://www.paypal.me/lazarusalhambra" target="_blank"><img src="https://img.shields.io/static/v1?label=PayPal&message=Donate&color=grey&labelColor=blue&logo=paypal" alt="PayPal"></a>
-  <a href="https://www.buymeacoffee.com/darkterminal" target="_blank"><img src="https://img.shields.io/static/v1?label=BuyMeCoffee&message=Donate&color=blue&labelColor=chocolate" alt="darkterminal" /></a>
-  <a href="https://saweria.co/darkterminal" target="_blank"><img src="https://img.shields.io/static/v1?label=Saweria&message=Donate&color=darkgreen&labelColor=green" alt="Saweria"></a>
-  <a href="https://ko-fi.com/imamalimustofa" target="_blank"><img src="https://img.shields.io/static/v1?label=Ko-Fi&message=Donate&color=blue&labelColor=magenta&logo=kofi" alt="Ko-Fi"></a>
-  <a href="https://liberapay.com/darkterminal/donate" target="_blank"><img src="https://img.shields.io/liberapay/receives/darkterminal.svg?logo=liberapay"></a>
 </p>
 
 ## Blog posts
