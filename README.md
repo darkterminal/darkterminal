@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imam Ali Mustofa</h1>
 <h3 align="center">Deal with My Idealism, Dream Big! Not for Sale, Just for Satisfaction</h3>
-<p align="center">
-  <a href="https://twitter.com/panggilmeiam" target="blank"><img src="https://img.shields.io/twitter/follow/panggilmeiam?logo=twitter&style=for-the-badge" alt="panggilmeiam" /></a>
-</p>
 
 <p align="center">
   <h3 align="center">Connect with me:</h3>
@@ -34,7 +31,3 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=darkterminal&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=darkterminal&layout=compact&theme=synthwave&hide_border=true" alt="Wakatime">
 </p>
-
-| 💻 Awesome Me Stage | 📝 Blog Posts / Stuff | 📫 How to reach me? (email only) | ⚡ What The Fun Fact | 🔔 Discord Invitation |
-|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:| :--------------------------------------:|:--------------------------------------:|
-| [READ CV](https://read.cv/darkterminal) | [DEV.to](https://dev.to/darkterminal) | [Mail](mailto:ddarkterminal@pm.me) | **I Think I am Egoist!** | [Join Server](https://discord.gg/zmHJBvrcYh) |
