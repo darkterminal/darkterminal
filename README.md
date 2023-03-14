@@ -24,6 +24,9 @@
 - [React Table - Sever Side Pagination, Search, Sort/Order](https://dev.to/darkterminal/react-table-sever-side-pagination-search-sortorder-2p8m)
 <!-- BLOG-POST-LIST:END -->
 
+---
+## Metircs
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C347%20hrs%2053%20mins-blue)
 
