@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imam Ali Mustofa</h1>
-<h3 align="center">Deal with My Idealism, Dream Big! Not for Sale, Just for Satisfaction</h3>
+<p align="center">Software Freestyle Engineer (SFE) and Metaphor Storyteller</p>
 
 <p align="center">
   <h3 align="center">Connect with me:</h3>
