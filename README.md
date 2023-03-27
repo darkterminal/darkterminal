@@ -17,11 +17,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Street Programmer: 📸 REST Screenshoot](https://dev.to/darkterminal/rest-screenshoot-2a4o)
 - [Street Programmer: OG:IMAGE Rest Generator](https://dev.to/darkterminal/street-programmer-ogimage-rest-generator-1jod)
 - [How to Fix the Next.js TailwindCSS Sticky Footer](https://dev.to/darkterminal/how-to-fix-the-nextjs-tailwindcss-sticky-footer-1hbk)
 - [Street Programmer: Create Stunning Banners with Github Action](https://dev.to/darkterminal/street-programmer-create-stunning-banners-with-github-action-2ljc)
 - [Street Programmer: Metaphor Blog Sharing](https://dev.to/darkterminal/street-programmer-metaphor-blog-sharing-fco)
-- [React Table - Sever Side Pagination, Search, Sort/Order](https://dev.to/darkterminal/react-table-sever-side-pagination-search-sortorder-2p8m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
