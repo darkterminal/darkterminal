@@ -27,16 +27,6 @@
 - [Street Programmer: Create Stunning Banners with Github Action](https://dev.to/darkterminal/street-programmer-create-stunning-banners-with-github-action-2ljc)
 <!-- BLOG-POST-LIST:END -->
 
-
-## Metaphore Answers
-<!-- STACKOVERFLOW:START -->
-- [Answer by darkterminal for How to persist useContext throughout all components?](https://stackoverflow.com/questions/75913070/how-to-persist-usecontext-throughout-all-components/75913622#75913622)
-- [Answer by darkterminal for Finding ID&#39;s for various database objects in apacheAGE](https://stackoverflow.com/questions/75912715/finding-ids-for-various-database-objects-in-apacheage/75913091#75913091)
-- [Answer by darkterminal for SQL Query Search doesnt use joined table](https://stackoverflow.com/questions/70795418/sql-query-search-doesnt-use-joined-table/70796452#70796452)
-- [Answer by darkterminal for Array_unique can&#39;t be used](https://stackoverflow.com/questions/70643168/array-unique-cant-be-used/70643399#70643399)
-- [Answer by darkterminal for Array_unique can&#39;t be used](https://stackoverflow.com/questions/70643168/array-unique-cant-be-used/70643217#70643217)
-<!-- STACKOVERFLOW:END -->
-
 ---
 ## Metircs
 
