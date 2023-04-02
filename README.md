@@ -1,21 +1,16 @@
-<h1 align="center">Hi 👋, I'm Imam Ali Mustofa</h1>
-<p align="center">Software Freestyle Engineer (SFE) and Metaphor Storyteller</p>
+<h1>Hello Punk 👋, I'm Imam Ali Mustofa</h1>
+<p>Software Freestyle Engineer (SFE) and Metaphor Storyteller</p>
 
-<p align="center">
-  <h3 align="center">Connect with me:</h3>
-  <p align="center">
+<p>
+  <h3>Connect with me:</h3>
+  <p>
   <a href="https://dev.to/darkterminal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="darkterminal" height="30" width="40" /></a>
   <a href="https://twitter.com/panggilmeiam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="panggilmeiam" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/12439522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12439522" height="30" width="40" /></a>
   </p>
 </p>
 
-<h3 align="center">Support:</h3>
-<p align="center">
-  <a href="https://www.paypal.me/lazarusalhambra" target="_blank"><img src="https://img.shields.io/static/v1?label=PayPal&message=Donate&color=grey&labelColor=blue&logo=paypal" alt="PayPal"></a>
-</p>
-
-## Blog posts
+## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
 - [Fixing the Sticky Footer Issue with Next.js and TailwindCSS](https://dev.to/darkterminal/fixing-the-sticky-footer-issue-with-nextjs-and-tailwindcss-1i2b)
 - [Street Programmer: 📸 REST Screenshoot](https://dev.to/darkterminal/rest-screenshoot-2a4o)
@@ -23,6 +18,11 @@
 - [How to Fix the Next.js TailwindCSS Sticky Footer](https://dev.to/darkterminal/how-to-fix-the-nextjs-tailwindcss-sticky-footer-1hbk)
 - [Street Programmer: Create Stunning Banners with Github Action](https://dev.to/darkterminal/street-programmer-create-stunning-banners-with-github-action-2ljc)
 <!-- BLOG-POST-LIST:END -->
+
+
+## Metaphore Answers
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
 
 ---
 ## Metircs
