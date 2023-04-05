@@ -20,11 +20,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [Unleashing the Power of Google Maps API in Your React App](https://dev.to/darkterminal/unleashing-the-power-of-google-maps-api-in-your-react-app-17cd)
 - [Fixing the Sticky Footer Issue with Next.js and TailwindCSS](https://dev.to/darkterminal/fixing-the-sticky-footer-issue-with-nextjs-and-tailwindcss-1i2b)
 - [Street Programmer: 📸 REST Screenshoot](https://dev.to/darkterminal/rest-screenshoot-2a4o)
 - [Street Programmer: OG:IMAGE Rest Generator](https://dev.to/darkterminal/street-programmer-ogimage-rest-generator-1jod)
 - [How to Fix the Next.js TailwindCSS Sticky Footer](https://dev.to/darkterminal/how-to-fix-the-nextjs-tailwindcss-sticky-footer-1hbk)
-- [Street Programmer: Create Stunning Banners with Github Action](https://dev.to/darkterminal/street-programmer-create-stunning-banners-with-github-action-2ljc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
