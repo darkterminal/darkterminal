@@ -20,11 +20,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [Spice Up Your Website with These Color-Related Functions](https://dev.to/streetcommunityprogrammer/spice-up-your-website-with-these-color-related-functions-2e6j)
 - [Unleashing the Power of Google Maps API in Your React App](https://dev.to/streetcommunityprogrammer/unleashing-the-power-of-google-maps-api-in-your-react-app-17cd)
 - [Fixing the Sticky Footer Issue with Next.js and TailwindCSS](https://dev.to/streetcommunityprogrammer/fixing-the-sticky-footer-issue-with-nextjs-and-tailwindcss-1i2b)
 - [Street Programmer: 📸 REST Screenshoot](https://dev.to/darkterminal/rest-screenshoot-2a4o)
 - [Street Programmer: OG:IMAGE Rest Generator](https://dev.to/darkterminal/street-programmer-ogimage-rest-generator-1jod)
-- [How to Fix the Next.js TailwindCSS Sticky Footer](https://dev.to/darkterminal/how-to-fix-the-nextjs-tailwindcss-sticky-footer-1hbk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
