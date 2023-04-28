@@ -28,7 +28,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-## Metircs
+## Metrics
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
