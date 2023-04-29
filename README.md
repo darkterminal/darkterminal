@@ -20,11 +20,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [#GithubHack23 : The Plan &lpar;Grayprint&rpar;](https://dev.to/darkterminal/githubhack23-the-plan-grayprint-14nb)
 - [#GitHubHack23 : Raw Story](https://dev.to/darkterminal/githubhack23-raw-story-5dlo)
 - [#GitHubHack23 : Introduction Metaphore Stories](https://dev.to/darkterminal/introduction-metaphore-stories-12el)
 - [Spice Up Your Website with These Color-Related Functions](https://dev.to/streetcommunityprogrammer/spice-up-your-website-with-these-color-related-functions-2e6j)
 - [Unleashing the Power of Google Maps API in Your React App](https://dev.to/streetcommunityprogrammer/unleashing-the-power-of-google-maps-api-in-your-react-app-17cd)
-- [Fixing the Sticky Footer Issue with Next.js and TailwindCSS](https://dev.to/streetcommunityprogrammer/fixing-the-sticky-footer-issue-with-nextjs-and-tailwindcss-1i2b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
