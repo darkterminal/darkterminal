@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [#GitHubHack23 - The Action Story](https://dev.to/darkterminal/githubhack23-the-action-story-3d11)
 - [#GitHubHack23 : Label Standardization](https://dev.to/darkterminal/githubhack23-label-standardization-23lf)
 - [#GithubHack23 : The Plan &lpar;Grayprint&rpar;](https://dev.to/darkterminal/githubhack23-the-plan-grayprint-14nb)
 - [#GitHubHack23 : Raw Story](https://dev.to/darkterminal/githubhack23-raw-story-5dlo)
 - [#GitHubHack23 : Introduction Metaphore Stories](https://dev.to/darkterminal/introduction-metaphore-stories-12el)
-- [Spice Up Your Website with These Color-Related Functions](https://dev.to/streetcommunityprogrammer/spice-up-your-website-with-these-color-related-functions-2e6j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
