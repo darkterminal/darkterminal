@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [Unleashing the Power of Character-driven Code](https://dev.to/character-driven-code/unleashing-the-power-of-character-driven-code-ama)
 - [A Central Sidebar Menu Configuration](https://dev.to/streetcommunityprogrammer/a-central-sidebar-menu-configuration-kh0)
 - [#GitHubHack23 - The Action Story](https://dev.to/darkterminal/githubhack23-the-action-story-3d11)
 - [#GitHubHack23 : Label Standardization](https://dev.to/darkterminal/githubhack23-label-standardization-23lf)
 - [#GithubHack23 : The Plan &lpar;Grayprint&rpar;](https://dev.to/darkterminal/githubhack23-the-plan-grayprint-14nb)
-- [#GitHubHack23 : Raw Story](https://dev.to/darkterminal/githubhack23-raw-story-5dlo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
