@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [I have 2030 Followers! But I have &lt; 100 readers!](https://dev.to/darkterminal/i-have-2030-followers-but-i-have-100-readers-1aia)
 - [Unleashing the Power of Character-driven Code](https://dev.to/character-driven-code/unleashing-the-power-of-character-driven-code-ama)
 - [A Central Sidebar Menu Configuration](https://dev.to/streetcommunityprogrammer/a-central-sidebar-menu-configuration-kh0)
 - [#GitHubHack23 - The Action Story](https://dev.to/darkterminal/githubhack23-the-action-story-3d11)
 - [#GitHubHack23 : Label Standardization](https://dev.to/darkterminal/githubhack23-label-standardization-23lf)
-- [#GithubHack23 : The Plan &lpar;Grayprint&rpar;](https://dev.to/darkterminal/githubhack23-the-plan-grayprint-14nb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
