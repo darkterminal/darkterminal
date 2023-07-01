@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Character Approach Method in System and Software Development](https://dev.to/character-driven-code/exploring-the-character-approach-method-in-system-and-software-development-53h1)
 - [Unleashing the Power of Software Freestyle Engineers in Modern IT](https://dev.to/streetcommunityprogrammer/unleashing-the-power-of-software-freestyle-engineers-in-modern-it-3caf)
 - [I have 2030 Followers! But I have &lt; 100 readers!](https://dev.to/darkterminal/i-have-2030-followers-but-i-have-100-readers-1aia)
 - [Unleashing the Power of Character-driven Code](https://dev.to/character-driven-code/unleashing-the-power-of-character-driven-code-ama)
 - [A Central Sidebar Menu Configuration](https://dev.to/streetcommunityprogrammer/a-central-sidebar-menu-configuration-kh0)
-- [#GitHubHack23 - The Action Story](https://dev.to/darkterminal/githubhack23-the-action-story-3d11)
 <!-- BLOG-POST-LIST:END -->
 
 ---
