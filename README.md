@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [The WebXGuild Chronicles - #00C03: The Enigma of Event Recording](https://dev.to/darkterminal/the-webxguild-chronicles-00c03-the-enigma-of-event-recording-1oii)
+- [The WebXGuild Chronicles - #00C02: The Quest for the Unique Username](https://dev.to/darkterminal/the-webxguild-chronicles-00c02-the-quest-for-the-unique-username-3j22)
+- [The WebXGuild Chronicles - #00C01: The Octocat and the Uncharted Web](https://dev.to/darkterminal/the-webxguild-chronicles-the-octocat-and-the-uncharted-web-00c001-520h)
+- [The WebXGuild Chronicles - EP#00: A Journey of Codes and Connections](https://dev.to/darkterminal/the-webxguild-chronicles-a-journey-of-codes-and-connections-00-1pga)
 - [The Rise of AI: Blurring the Lines Between Human and Machine](https://dev.to/darkterminal/the-rise-of-ai-blurring-the-lines-between-human-and-machine-3ie)
-- [How to Deepen Your Character as a Beginner Software Developer](https://dev.to/darkterminal/how-to-deepen-your-character-as-a-beginner-software-developer-2mo8)
-- [The Software Freestyle Engineer and Their Awesome Duties](https://dev.to/darkterminal/the-software-freestyle-engineer-and-their-awesome-duties-442o)
-- [Exploring the Character Approach Method in System and Software Development](https://dev.to/character-driven-code/exploring-the-character-approach-method-in-system-and-software-development-53h1)
-- [Unleashing the Power of Software Freestyle Engineers in Modern IT](https://dev.to/streetcommunityprogrammer/unleashing-the-power-of-software-freestyle-engineers-in-modern-it-3caf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
