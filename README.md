@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
-- [The WebXGuild Chronicles - #00C03: The Enigma of Event Recording](https://dev.to/darkterminal/the-webxguild-chronicles-00c03-the-enigma-of-event-recording-1oii)
-- [The WebXGuild Chronicles - #00C02: The Quest for the Unique Username](https://dev.to/darkterminal/the-webxguild-chronicles-00c02-the-quest-for-the-unique-username-3j22)
-- [The WebXGuild Chronicles - #00C01: The Octocat and the Uncharted Web](https://dev.to/darkterminal/the-webxguild-chronicles-the-octocat-and-the-uncharted-web-00c001-520h)
-- [The WebXGuild Chronicles - EP#00: A Journey of Codes and Connections](https://dev.to/darkterminal/the-webxguild-chronicles-a-journey-of-codes-and-connections-00-1pga)
-- [The Rise of AI: Blurring the Lines Between Human and Machine](https://dev.to/darkterminal/the-rise-of-ai-blurring-the-lines-between-human-and-machine-3ie)
+- [The WebXGuild Chronicles - #01C04: Harmonious Collaboration Begins](https://dev.to/darkterminal/the-webxguild-chronicles-01c04-harmonious-collaboration-begins-3hi2)
+- [The WebXGuild Chronicles - #01C03: The Quest for Auto-Pilot](https://dev.to/darkterminal/the-webxguild-chronicles-01c03-the-quest-for-auto-pilot-5fo6)
+- [The WebXGuild Chronicles - #01C02: The Melody of Communication](https://dev.to/darkterminal/the-webxguild-chronicles-01c02-the-melody-of-communication-12mf)
+- [The WebXGuild Chronicles - #01C01: The Symphony of Seamless Integration](https://dev.to/darkterminal/the-webxguild-chronicles-01c01-the-symphony-of-seamless-integration-2mbn)
+- [The WebXGuild Chronicles - #01C00: The Last &lpar;but not the last&rpar; Discussion on the GitHub Discussion Thread](https://dev.to/darkterminal/the-webxguild-chronicles-01c00-the-last-but-not-the-last-discussion-on-the-github-discussion-thread-1k2p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
