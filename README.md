@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
-- [The WebXGuild Chronicles - #01C04: Harmonious Collaboration Begins](https://dev.to/darkterminal/the-webxguild-chronicles-01c04-harmonious-collaboration-begins-3hi2)
-- [The WebXGuild Chronicles - #01C03: The Quest for Auto-Pilot](https://dev.to/darkterminal/the-webxguild-chronicles-01c03-the-quest-for-auto-pilot-5fo6)
-- [The WebXGuild Chronicles - #01C02: The Melody of Communication](https://dev.to/darkterminal/the-webxguild-chronicles-01c02-the-melody-of-communication-12mf)
-- [The WebXGuild Chronicles - #01C01: The Symphony of Seamless Integration](https://dev.to/darkterminal/the-webxguild-chronicles-01c01-the-symphony-of-seamless-integration-2mbn)
-- [The WebXGuild Chronicles - #01C00: The Last &lpar;but not the last&rpar; Discussion on the GitHub Discussion Thread](https://dev.to/darkterminal/the-webxguild-chronicles-01c00-the-last-but-not-the-last-discussion-on-the-github-discussion-thread-1k2p)
+- [The WebXGuild Chronicles - #02C04: Melodies of Innovation](https://dev.to/darkterminal/the-webxguild-chronicles-02c03-melodies-of-innovation-31jh)
+- [The WebXGuild Chronicles - #02C03: The Collaborative Crescendo](https://dev.to/darkterminal/the-webxguild-chronicles-02c03-the-collaborative-crescendo-3af0)
+- [The WebXGuild Chronicles - #02C02: Rhythm and Refinement](https://dev.to/darkterminal/the-webxguild-chronicles-02c02-rhythm-and-refinement-3ch9)
+- [The WebXGuild Chronicles - #02C01: The Symphony of Commitment](https://dev.to/darkterminal/the-webxguild-chronicles-02c01-the-symphony-of-commitment-91d)
+- [The WebXGuild Chronicles - #02C00: Project Orchestration](https://dev.to/darkterminal/the-webxguild-chronicles-02c00-project-orchestration-2dno)
 <!-- BLOG-POST-LIST:END -->
 
 ---
