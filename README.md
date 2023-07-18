@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [My Mother Wrote a Prologue to My Imagination Thesis](https://dev.to/darkterminal/my-mother-wrote-a-prologue-to-my-imagination-thesis-1j21)
 - [Adding Container IP to Node.js Express + Prisma ORM on Docker Container - Automagically](https://dev.to/darkterminal/adding-container-ip-to-nodejs-express-prisma-orm-on-docker-container-automagically-43ig)
 - [The WebXGuild Chronicles - #02C04: Melodies of Innovation](https://dev.to/darkterminal/the-webxguild-chronicles-02c03-melodies-of-innovation-31jh)
 - [The WebXGuild Chronicles - #02C03: The Collaborative Crescendo](https://dev.to/darkterminal/the-webxguild-chronicles-02c03-the-collaborative-crescendo-3af0)
 - [The WebXGuild Chronicles - #02C02: Rhythm and Refinement](https://dev.to/darkterminal/the-webxguild-chronicles-02c02-rhythm-and-refinement-3ch9)
-- [The WebXGuild Chronicles - #02C01: The Symphony of Commitment](https://dev.to/darkterminal/the-webxguild-chronicles-02c01-the-symphony-of-commitment-91d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
