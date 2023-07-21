@@ -30,8 +30,8 @@
 - [The Post Modern Art of Communication](https://dev.to/darkterminal/the-post-modern-art-of-communication-3cj0)
 - [T-Shape &lpar;Folklore&rpar;: A Legend for the Future](https://dev.to/darkterminal/t-shape-folklore-a-legend-for-the-future-2dfb)
 - [My Mother Wrote a Prologue to My Imagination Thesis](https://dev.to/darkterminal/my-mother-wrote-a-prologue-to-my-imagination-thesis-1j21)
-- [Adding Container IP to Node.js Express + Prisma ORM on Docker Container - Automagically](https://dev.to/darkterminal/adding-container-ip-to-nodejs-express-prisma-orm-on-docker-container-automagically-43ig)
-- [The WebXGuild Chronicles - #02C04: Melodies of Innovation](https://dev.to/darkterminal/the-webxguild-chronicles-02c03-melodies-of-innovation-31jh)
+- [Adding Container IP to Node.js Express + Prisma ORM on Docker Container - Automagically](https://dev.to/streetcommunityprogrammer/adding-container-ip-to-nodejs-express-prisma-orm-on-docker-container-automagically-43ig)
+- [The WebXGuild Chronicles - #02C04: Melodies of Innovation](https://dev.to/webxdao/the-webxguild-chronicles-02c03-melodies-of-innovation-31jh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
