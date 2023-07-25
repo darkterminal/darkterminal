@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [The Art Of Messy Code - Chapter 0 : Introduction](https://dev.to/darkterminal/the-art-of-messy-code-introduction-2fb)
+- [The Art Of Messy Code - Chapter 0 : What Is a Software Freestyle Engineer?](https://dev.to/darkterminal/the-art-of-messy-code-chapter-0-what-is-a-software-freestyle-engineer-5djh)
 - [The Art Of Messy Code - Chapter 0 : Preface](https://dev.to/darkterminal/the-art-of-messy-code-chapter-0-preface-1c09)
 - [The Post Modern Art of Communication](https://dev.to/darkterminal/the-post-modern-art-of-communication-3cj0)
 - [T-Shape &lpar;Folklore&rpar;: A Legend for the Future](https://dev.to/darkterminal/t-shape-folklore-a-legend-for-the-future-2dfb)
-- [My Mother Wrote a Prologue to My Imagination Thesis](https://dev.to/darkterminal/my-mother-wrote-a-prologue-to-my-imagination-thesis-1j21)
-- [Adding Container IP to Node.js Express + Prisma ORM on Docker Container - Automagically](https://dev.to/streetcommunityprogrammer/adding-container-ip-to-nodejs-express-prisma-orm-on-docker-container-automagically-43ig)
 <!-- BLOG-POST-LIST:END -->
 
 ---
