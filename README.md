@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [The Art Of Messy Code - Chapter 0 : Unconventional Solutions for Challenging Scenarios](https://dev.to/darkterminal/unconventional-solutions-for-challenging-scenarios-285b)
 - [The Art Of Messy Code - Chapter 0 : Introduction](https://dev.to/darkterminal/the-art-of-messy-code-introduction-2fb)
 - [The Art Of Messy Code - Chapter 0 : What Is a Software Freestyle Engineer?](https://dev.to/darkterminal/the-art-of-messy-code-chapter-0-what-is-a-software-freestyle-engineer-5djh)
 - [The Art Of Messy Code - Chapter 0 : Preface](https://dev.to/darkterminal/the-art-of-messy-code-chapter-0-preface-1c09)
 - [The Post Modern Art of Communication](https://dev.to/darkterminal/the-post-modern-art-of-communication-3cj0)
-- [T-Shape &lpar;Folklore&rpar;: A Legend for the Future](https://dev.to/darkterminal/t-shape-folklore-a-legend-for-the-future-2dfb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
