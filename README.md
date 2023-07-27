@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [5 Ways to Become a Software Freestyle Engineer](https://dev.to/streetcommunityprogrammer/5-ways-to-become-a-software-freestyle-engineer-p4a)
 - [The Art Of Messy Code - Chapter 0 : Unconventional Solutions for Challenging Scenarios](https://dev.to/darkterminal/unconventional-solutions-for-challenging-scenarios-285b)
 - [The Art Of Messy Code - Chapter 0 : Introduction](https://dev.to/darkterminal/the-art-of-messy-code-introduction-2fb)
 - [The Art Of Messy Code - Chapter 0 : What Is a Software Freestyle Engineer?](https://dev.to/darkterminal/the-art-of-messy-code-chapter-0-what-is-a-software-freestyle-engineer-5djh)
 - [The Art Of Messy Code - Chapter 0 : Preface](https://dev.to/darkterminal/the-art-of-messy-code-chapter-0-preface-1c09)
-- [The Post Modern Art of Communication](https://dev.to/darkterminal/the-post-modern-art-of-communication-3cj0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
