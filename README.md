@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Seamless Warehouse Transfer Method](https://dev.to/darkterminal/creating-a-seamless-warehouse-transfer-method-4n92)
+- [The Art Of Messy Code - Chapter 0 : Nurturing Creativity Amidst Complexity](https://dev.to/darkterminal/the-art-of-messy-code-chapter-0-nurturing-creativity-amidst-complexity-bn4)
 - [The Art of Software Improvisation: Becoming a Software Freestyle Engineer](https://dev.to/streetcommunityprogrammer/the-art-of-software-improvisation-becoming-a-software-freestyle-engineer-329k)
 - [5 Ways to Become a Software Freestyle Engineer](https://dev.to/streetcommunityprogrammer/5-ways-to-become-a-software-freestyle-engineer-p4a)
 - [The Art Of Messy Code - Chapter 0 : Unconventional Solutions for Challenging Scenarios](https://dev.to/darkterminal/unconventional-solutions-for-challenging-scenarios-285b)
-- [The Art Of Messy Code - Chapter 0 : Introduction](https://dev.to/darkterminal/the-art-of-messy-code-introduction-2fb)
-- [The Art Of Messy Code - Chapter 0 : What Is a Software Freestyle Engineer?](https://dev.to/darkterminal/the-art-of-messy-code-chapter-0-what-is-a-software-freestyle-engineer-5djh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
