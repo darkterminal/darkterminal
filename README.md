@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [The Art Of Messy Code - Chapter 1: Don&#39;t Think: The Best Solution For Software Development - Preface](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-dont-think-the-best-solution-for-software-development-preface-4035)
 - [Is Learning Web Development Directly with Frameworks a Mistake?](https://dev.to/character-driven-code/is-learning-web-development-directly-with-frameworks-a-mistake-a3f)
 - [This is a Serious Joke: The COLLABORATE Project Management Method](https://dev.to/streetcommunityprogrammer/this-is-a-serious-joke-the-collaborate-project-management-method-4mfi)
 - [The Art Of Messy Code - Chapter 0 : The End of Chapter 0](https://dev.to/darkterminal/the-art-of-messy-code-chapter-0-the-end-of-chapter-0-4hlo)
 - [The Art Of Messy Code - Chapter 0 : S. a HB. b P. a C. i EC.](https://dev.to/darkterminal/the-art-of-messy-code-chapter-0-s-a-hb-b-p-a-c-i-ec-2pl4)
-- [The Art Of Messy Code - Chapter 0 : Navigating the Unknown: Uncertainty in the Pursuit of Innovation](https://dev.to/darkterminal/the-art-of-messy-code-chapter-0-navigating-the-unknown-uncertainty-in-the-pursuit-of-innovation-5eod)
 <!-- BLOG-POST-LIST:END -->
 
 ---
