@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [The Art of Messy Code - Chapter 1: Minimalism in Code: Stripping Away Complexity for Optimal Solutions](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-minimalism-in-code-stripping-away-complexity-for-optimal-solutions-35dg)
+- [The Art Of Messy Code - Chapter 1: Flow State in Coding: Achieving Optimal Performance Without Conscious Thinking](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-flow-state-in-coding-achieving-optimal-performance-without-conscious-thinking-44fb)
 - [The Art Of Messy Code - Chapter 1: Embracing Imperfection: The Art of Allowing Bugs in Software](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-embracing-imperfection-the-art-of-allowing-bugs-in-software-59oc)
 - [The Art of Messy Code - Chapter 1: Rapid Prototyping: Building Software Without Overthinking](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-rapid-prototyping-building-software-without-overthinking-497)
 - [The Art Of Messy Code - Chapter 1: Intuitive Software Development: The Instinct Over Analysis](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-intuitive-software-development-the-instinct-over-analysis-3a8d)
-- [The Art Of Messy Code - Chapter 1: Introduction](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-introduction-3j42)
-- [The Art Of Messy Code - Chapter 1: Don&#39;t Think: The Best Solution For Software Development - Preface](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-dont-think-the-best-solution-for-software-development-preface-4035)
 <!-- BLOG-POST-LIST:END -->
 
 ---
