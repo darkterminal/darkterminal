@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [The True Value of Learning Programming: Beyond the Money](https://dev.to/character-driven-code/the-true-value-of-learning-programming-beyond-the-money-10ch)
+- [The Art of Messy Code - Chapter 1: The End of Chapter 1](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-the-end-of-chapter-1-5dje)
+- [The Art of Messy Code - Chapter 1: Intuition vs. Reasoning: Striking the Right Balance in Software Development](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-intuition-vs-reasoning-striking-the-right-balance-in-software-development-5fmb)
 - [The Art of Messy Code - Chapter 1: Coding as an Art Form: Expressing Ideas Without Overthinking](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-coding-as-an-art-form-expressing-ideas-without-overthinking-89i)
 - [The Art Of Messy Code - Chapter 1: The Unconscious Coder: Tapping into the Subconscious Mind for Innovative Solutions](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-the-unconscious-coder-tapping-into-the-subconscious-mind-for-innovative-solutions-3ng1)
-- [The Art of Messy Code - Chapter 1: Emotional Intelligence in Programming: The Power of Gut Feeling](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-emotional-intelligence-in-programming-the-power-of-gut-feeling-5n6)
-- [A Stubborn Self-Taught Coder&#39;s Journey](https://dev.to/character-driven-code/a-stubborn-self-taught-coders-journey-5b4)
-- [The Art of Messy Code - Chapter 1: The Zen of Software Development: Letting Go of Mental Constraints](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-the-zen-of-software-development-letting-go-of-mental-constraints-oib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
