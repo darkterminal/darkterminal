@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [Unveiling the Mystery: Leadership Authority for Expert-Based Decision-Making](https://dev.to/darkterminal/unveiling-the-mystery-leadership-authority-for-expert-based-decision-making-59d2)
 - [The True Value of Learning Programming: Beyond the Money](https://dev.to/character-driven-code/the-true-value-of-learning-programming-beyond-the-money-10ch)
 - [The Art of Messy Code - Chapter 1: The End of Chapter 1](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-the-end-of-chapter-1-5dje)
 - [The Art of Messy Code - Chapter 1: Intuition vs. Reasoning: Striking the Right Balance in Software Development](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-intuition-vs-reasoning-striking-the-right-balance-in-software-development-5fmb)
 - [The Art of Messy Code - Chapter 1: Coding as an Art Form: Expressing Ideas Without Overthinking](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-coding-as-an-art-form-expressing-ideas-without-overthinking-89i)
-- [The Art Of Messy Code - Chapter 1: The Unconscious Coder: Tapping into the Subconscious Mind for Innovative Solutions](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-the-unconscious-coder-tapping-into-the-subconscious-mind-for-innovative-solutions-3ng1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
