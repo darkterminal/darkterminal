@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [No Framework - Eps#0: Don&#39;t-Do List](https://dev.to/streetcommunityprogrammer/no-framework-eps0-dont-do-list-279i)
+- [LA.f.E-BD-Ma.D.t.CF&lpar;c&rpar;.i.ODM.t.N.o.D - Part 00: Purpose and Scope](https://dev.to/darkterminal/lafe-bd-madtcfciodmtnod-part-00-purpose-and-scope-309e)
 - [Unveiling the Mystery: Leadership Authority for Expert-Based Decision-Making](https://dev.to/darkterminal/unveiling-the-mystery-leadership-authority-for-expert-based-decision-making-59d2)
 - [The True Value of Learning Programming: Beyond the Money](https://dev.to/character-driven-code/the-true-value-of-learning-programming-beyond-the-money-10ch)
 - [The Art of Messy Code - Chapter 1: The End of Chapter 1](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-the-end-of-chapter-1-5dje)
-- [The Art of Messy Code - Chapter 1: Intuition vs. Reasoning: Striking the Right Balance in Software Development](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-intuition-vs-reasoning-striking-the-right-balance-in-software-development-5fmb)
-- [The Art of Messy Code - Chapter 1: Coding as an Art Form: Expressing Ideas Without Overthinking](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-coding-as-an-art-form-expressing-ideas-without-overthinking-89i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
