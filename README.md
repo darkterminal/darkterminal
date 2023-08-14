@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [No Framework - Eps#1: I am Bored!](https://dev.to/darkterminal/no-framework-eps1-i-am-bored-4ki)
 - [The Art of Pseudo-Intellect: A Ninja&#39;s Path to Acquiring Wisdom](https://dev.to/character-driven-code/the-art-of-pseudo-intellect-a-ninjas-path-to-acquiring-wisdom-jfh)
 - [No Framework - Eps#0: Don&#39;t-Do List](https://dev.to/streetcommunityprogrammer/no-framework-eps0-dont-do-list-279i)
 - [LA.f.E-BD-Ma.D.t.CF&lpar;c&rpar;.i.ODM.t.N.o.D - Part 00: Purpose and Scope](https://dev.to/darkterminal/lafe-bd-madtcfciodmtnod-part-00-purpose-and-scope-309e)
 - [Unveiling the Mystery: Leadership Authority for Expert-Based Decision-Making](https://dev.to/darkterminal/unveiling-the-mystery-leadership-authority-for-expert-based-decision-making-59d2)
-- [The True Value of Learning Programming: Beyond the Money](https://dev.to/character-driven-code/the-true-value-of-learning-programming-beyond-the-money-10ch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
