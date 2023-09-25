@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [The WebXGuild Chronicles - #03C01: The Core System](https://dev.to/webxdao/the-webxguild-chronicles-03c01-the-core-system-4hgp)
 - [Street Programmer: Print Receipt From Online POS Web App to Local Printer](https://dev.to/streetcommunityprogrammer/street-programmer-print-receipt-from-online-pos-web-app-to-local-printer-1hnl)
 - [The Tale of My Trusty Old Laptop and the Lessons It Taught Me](https://dev.to/darkterminal/the-tale-of-my-trusty-old-laptop-and-the-lessons-it-taught-me-26dh)
 - [A History Of Modern Slim Boilerplate &lpar;Upgraded&rpar;](https://dev.to/darkterminal/a-history-of-modern-slim-boilerplate-upgraded-1cgn)
 - [No Framework - Eps#1: I am Bored!](https://dev.to/streetcommunityprogrammer/no-framework-eps1-i-am-bored-4ki)
-- [The Art of Pseudo-Intellect: A Ninja&#39;s Path to Acquiring Wisdom](https://dev.to/character-driven-code/the-art-of-pseudo-intellect-a-ninjas-path-to-acquiring-wisdom-jfh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
