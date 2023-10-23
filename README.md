@@ -77,14 +77,13 @@ Sunday                   422 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               1 hr 20 mins        ██████████████████████░░░   88.22 % 
-TSQL                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 31 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -100,7 +99,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2023 01:20:05 UTC
+ Last Updated on 23/10/2023 01:16:10 UTC
 <!--END_SECTION:waka-->
 
 ---
