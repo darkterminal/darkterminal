@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [Can I Dare You? Contribute to the fck. Framework!](https://dev.to/darkterminal/can-i-dare-you-contribute-to-the-fck-framework-4kng)
 - [What I am doing?](https://dev.to/darkterminal/what-i-am-doing-20k1)
 - [A No-Nonsense Creation](https://dev.to/darkterminal/a-no-nonsense-creation-3m5i)
 - [The Fck PHP Framework for Freestylers](https://dev.to/darkterminal/the-fck-php-framework-for-freestylers-55p0)
 - [The Boring Days](https://dev.to/darkterminal/the-boring-days-3130)
-- [The WebXGuild Chronicles - #03C02: Mock Server Marry with NextJS](https://dev.to/webxdao/the-webxguild-chronicles-03c02-mock-server-marry-with-nextjs-2jj7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
