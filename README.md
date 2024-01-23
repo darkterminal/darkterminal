@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [The PHP library for Turso HTTP](https://dev.to/darkterminal/the-php-library-for-turso-http-1p47)
 - [Can I Dare You? Contribute to the fck. Framework!](https://dev.to/darkterminal/can-i-dare-you-contribute-to-the-fck-framework-4kng)
 - [What I am doing?](https://dev.to/darkterminal/what-i-am-doing-20k1)
 - [A No-Nonsense Creation](https://dev.to/darkterminal/a-no-nonsense-creation-3m5i)
 - [The Fck PHP Framework for Freestylers](https://dev.to/darkterminal/the-fck-php-framework-for-freestylers-55p0)
-- [The Boring Days](https://dev.to/darkterminal/the-boring-days-3130)
 <!-- BLOG-POST-LIST:END -->
 
 ---
