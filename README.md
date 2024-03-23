@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [1 Endpoint Do 5 Things for HTMX DataTable](https://dev.to/darkterminal/1-endpoint-do-5-things-for-htmx-datatable-1k57)
 - [The fck. Framework - What Is This?](https://dev.to/streetcommunityprogrammer/the-fck-framework-what-is-this-5bbi)
 - [The PHP library for Turso HTTP](https://dev.to/darkterminal/the-php-library-for-turso-http-1p47)
 - [Can I Dare You? Contribute to the fck. Framework!](https://dev.to/darkterminal/can-i-dare-you-contribute-to-the-fck-framework-4kng)
 - [What I am doing?](https://dev.to/darkterminal/what-i-am-doing-20k1)
-- [A No-Nonsense Creation](https://dev.to/darkterminal/a-no-nonsense-creation-3m5i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
