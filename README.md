@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [Create a Dynamic Modal using PHP and HTMX #0](https://dev.to/darkterminal/create-a-dynamic-modal-using-php-and-htmx-44j5)
 - [Redirect When Not Authenticated in PHP + HTMX](https://dev.to/darkterminal/redirect-when-not-authenticated-in-php-htmx-47b3)
 - [1 Endpoint Do 5 Things for HTMX DataTable](https://dev.to/darkterminal/1-endpoint-do-5-things-for-htmx-datatable-1k57)
 - [The fck. Framework - What Is This?](https://dev.to/streetcommunityprogrammer/the-fck-framework-what-is-this-5bbi)
 - [The PHP library for Turso HTTP](https://dev.to/darkterminal/the-php-library-for-turso-http-1p47)
-- [Can I Dare You? Contribute to the fck. Framework!](https://dev.to/darkterminal/can-i-dare-you-contribute-to-the-fck-framework-4kng)
 <!-- BLOG-POST-LIST:END -->
 
 ---
