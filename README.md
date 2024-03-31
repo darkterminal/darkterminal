@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [OhMyPunk - Remember Last Tab Open in HTMX](https://dev.to/darkterminal/ohmypunk-remember-last-tab-open-in-htmx-53ci)
 - [Coding While Dancing Make Me Better As an S.F.E](https://dev.to/darkterminal/coding-while-dancing-make-me-better-as-an-sfe-49a5)
 - [Create a Dynamic Modal using PHP and HTMX #1](https://dev.to/darkterminal/create-a-dynamic-modal-using-php-and-htmx-1-3d2g)
 - [Create a Dynamic Modal using PHP and HTMX #0](https://dev.to/darkterminal/create-a-dynamic-modal-using-php-and-htmx-44j5)
 - [Redirect When Not Authenticated in PHP + HTMX](https://dev.to/darkterminal/redirect-when-not-authenticated-in-php-htmx-47b3)
-- [1 Endpoint Do 5 Things for HTMX DataTable](https://dev.to/darkterminal/1-endpoint-do-5-things-for-htmx-datatable-1k57)
 <!-- BLOG-POST-LIST:END -->
 
 ---
