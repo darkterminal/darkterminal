@@ -27,11 +27,11 @@
 
 ## Metaphore Stories
 <!-- BLOG-POST-LIST:START -->
+- [I Build libSQL Client for PHP](https://dev.to/darkterminal/i-build-libsql-client-for-php-3ae3)
 - [Turso + PHP - The LibSQL Client for PHP](https://dev.to/darkterminal/turso-php-the-libsql-client-for-php-1amh)
 - [Reusable Input Datalist](https://dev.to/darkterminal/reusable-input-datalist-18f7)
 - [Lazy as F! Isn’t About D.R.Y but B.A.F When Creating ChartJS](https://dev.to/darkterminal/lazy-as-f-isnt-about-dry-but-baf-when-creating-chartjs-55kd)
 - [OhMyPunk - Remember Last Tab Open in HTMX](https://dev.to/darkterminal/ohmypunk-remember-last-tab-open-in-htmx-53ci)
-- [Coding While Dancing Make Me Better As an S.F.E](https://dev.to/darkterminal/coding-while-dancing-make-me-better-as-an-sfe-49a5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
