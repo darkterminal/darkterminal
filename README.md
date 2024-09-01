@@ -9,6 +9,6 @@
     &mdash; <a href="https://github.com/darkterminal">darkterminal</a> / <a href="https://x.com/panggilmeiam" target="_blank">panggilmeiam</a> (<em>Software Freestyle Engineer</em>), btw
 </p>
 <p align="center">
-    People call me "crazy" and that's true. Because I work Full-time for Open Source and <br /> 
+    People call me "crazy" and that's true. Because I work Full-time for Open Source <br /> 
     (Support me is not illegal <a href="https://github.com/sponsors/darkterminal">GitHub Sponsor</a> or <a href="https://saweria.co/darkterminal" target="_blank">Saweria</a>)
 </p>
