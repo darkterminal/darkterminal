@@ -7,5 +7,8 @@
 </p>
 <p align="center">
     &mdash; <a href="https://github.com/darkterminal">darkterminal</a> / <a href="https://x.com/panggilmeiam" target="_blank">panggilmeiam</a> (<em>Software Freestyle Engineer</em>), btw
-    &mdash; Support me <a href="https://github.com/sponsors/darkterminal">GitHub Sponsor</a> or <a href="https://saweria.co/darkterminal" target="_blank">Saweria</a>
+</p>
+<p align="center">
+    People call me "crazy" and that's true. Because I work Full-time for Open Source and <br /> 
+    (Support me is not illegal <a href="https://github.com/sponsors/darkterminal">GitHub Sponsor</a> or <a href="https://saweria.co/darkterminal" target="_blank">Saweria</a>)
 </p>
