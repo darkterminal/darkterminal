@@ -82,6 +82,10 @@ Here is the feature checklist based on User access Role and Permissions.
 
 | Checkbox | Test Case                     | Expected Result                  |
 | -------- | ----------------------------- | -------------------------------- |
+| ✔️    | View all user                 | Display all users                |
+| ✔️    | View detail user              | Display detail user              |
+|       | Edit detail user              | Edit detail user                 |
+|       | Deactivate user               | Successfully deactive user       |
 |       | Create new user with any role | User created successfully        |
 |       | Modify existing user roles    | Role changes applied immediately |
 |       | Delete any user account       | Account removed permanently      |
