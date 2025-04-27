@@ -9,16 +9,19 @@
     &mdash; <a href="https://github.com/darkterminal">darkterminal</a> / <a href="https://x.com/panggilmeiam" target="_blank">panggilmeiam</a> (<em>Software Freestyle Engineer</em>), btw
 </p>
 <p align="center">
-    People call me "crazy" and that's true. Because I work Full-time for Open Source <br /> 
-    (Support me is not illegal <a href="https://github.com/sponsors/darkterminal">GitHub Sponsor</a> or <a href="https://saweria.co/darkterminal" target="_blank">Saweria</a>)
+    I build something to solve my skill issue, but it's still. <br /> <br /> 
+    <a href="https://github.com/sponsors/darkterminal">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/HveNBah.png">
+          <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/Oqt2l6O.png">
+          <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://avatars.githubusercontent.com/u/32319439?v=4">
+        </picture>
+    </a>
+    <a href="https://saweria.co/darkterminal" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/pcj98OV.png">
+          <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/Oqt2l6O.png">
+          <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://avatars.githubusercontent.com/u/32319439?v=4">
+        </picture>
+    </a>
 </p>
-
----
-
-**⏲️ Currently Working**
-- **[MylibSQLAdmin](/projects/mylibsqladmin.md)** - Modern SQLite Database Management System
-
-**:book: Freestyle Blogging**
-
-- [I Am Back!](/contents/2024-12-25-i-am-back.md) - Dec, 25/24
-- [Where am I?](/contents/2024-11-11-where-am-i.md) - Nov, 11/24
